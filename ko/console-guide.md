@@ -1,3 +1,8 @@
+---
+title: Console Guide
+weight: 11
+---
+
 ## Database > RDS for MySQL > 콘솔 사용 가이드
 
 ## 간단히 시작하기

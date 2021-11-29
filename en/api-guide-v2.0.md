@@ -1,3 +1,8 @@
+---
+title: API Guide
+weight: 21
+---
+
 ## Database > RDS for MySQL > API Guide
 
 | Region | Endpoint |

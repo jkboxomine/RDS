@@ -1,3 +1,8 @@
+---
+title: API Guide
+weight: 21
+---
+
 ## Database > RDS for MySQL > API 가이드
 
 | 리전 | 엔드포인트 |

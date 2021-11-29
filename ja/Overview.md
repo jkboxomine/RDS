@@ -1,3 +1,8 @@
+---
+title: Overview
+weight: 1
+---
+
 ## データベース > RDS for MySQL > 概要
 
 NHN Cloud RDS for MySQLは、リレーショナルデータベースをクラウド環境で提供するサービスです。

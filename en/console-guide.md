@@ -1,3 +1,8 @@
+---
+title: Console Guide
+weight: 11
+---
+
 ## Database > RDS for MySQL > Console Guide
 
 ## Getting Started
